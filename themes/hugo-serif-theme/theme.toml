@@ -1,0 +1,12 @@
+name = "Serif"
+license = "MIT"
+licenselink = "https://github.com/JugglerX/hugo-serif-theme/blob/master/LICENSE"
+description = "Serif is a classy multi page theme for Hugo. Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+homepage = "https://github.com/jugglerx/hugo-serif-theme"
+tags = ["responsive","minimal","clean","business","company","bootstrap","zerostatic"]
+features = ["services","team","about","contacto"]
+min_version = 0.51
+
+[author]
+  name = "Robert Austin"
+  homepage = "https://www.zerostatic.io"
