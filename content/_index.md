@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Inicio'
 intro_image: images/bulb.png
 ---
 
