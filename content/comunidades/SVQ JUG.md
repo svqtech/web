@@ -9,4 +9,5 @@ Las charlas serán tanto en inglés como en español.
 
 Otras formas para contactar:
 https://www.meetup.com/SVQJUG/
+
 svqjug@gmail.com
