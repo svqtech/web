@@ -2,5 +2,10 @@
 title: 'Python Sevilla'
 ---
 
-Bienvenido al Chiquito Ipsum, el generador de texto de relleno para tus diseños de antes de los dolores.
-Dale a "Fistrum" para que te salga ese pedaso de texto Chiquito en estado puro. Si te crees muy moderno dale a "Latin" que te lo pongo con cuarto y mitad de romanooo...
+Grupo de apasionados, profesionales o entusiastas del lenguaje de programación Python en la ciudad de Sevilla. Este grupo forma parte de la [Python Software Foundation Meetup Pro Network](https://www.meetup.com/es-ES/pro/python-software-foundation-meetups).
+
+Tenemos un [código de conducta](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md) que es importante leer antes de asistir a nuestros eventos.
+
+- [Twitter](https://twitter.com/python_sevilla)
+- [Github](https://github.com/python-sevilla/meetups)
+- [Telegram](https://t.me/pythonsevilla)
