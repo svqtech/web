@@ -31,7 +31,7 @@ theme = "hugo-serif-theme"
 
 [[menu.main]]
 	name = "Sobre nosotros"
-	url = "/about/"
+	url = "/sobre/"
 	weight = 3
 
 [[menu.main]]
