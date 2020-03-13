@@ -12565,7 +12565,7 @@ body {
   font-size: 17px;
   line-height: 1.2;
   font-family: "DM Sans", Arial, sans-serif, -apple-system; }
-
+/*
 body:after {
   color: #000000;
   font-size: 12px;
@@ -12592,5 +12592,5 @@ body:after {
   @media (min-width: 1300px) {
     body:after {
       content: "xl - min-width: 1300px"; } }
-
+*/
 /*# sourceMappingURL=style.css.map */
