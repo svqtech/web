@@ -4,12 +4,9 @@
       <div class="col-12">
         <div class="sub-footer-inner">
           <ul>
-            <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
-            <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
+            <li><strong>Twitter: </strong><a href="{{ .Site.Data.contact.twitterurl }}">{{ .Site.Data.contact.twitter }}</a></li>
+            <li><strong>Correo: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
                 {{ .Site.Data.contact.email }}</a></li>
-          </ul>
-          <ul>
-            <li class="zerostatic"><a href="https://www.zerostatic.io">www.zerostatic.io</a></li>
           </ul>
         </div>
       </div>

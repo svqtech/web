@@ -1,13 +1,16 @@
 <div class="call">
   <div class="call-box-top">
-    <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
-    <div class="call-email"><strong>Email: </strong>
+    <div class="call-phone"><strong>Twitter: </strong> 
+      <a href="{{ .Site.Data.contact.twitter }}">
+        {{ .Site.Data.contact.twitter }} </div>
+      </a>
+    <div class="call-email"><strong>Correo: </strong>
       <a href="mailto:{{ .Site.Data.contact.email }}">
         {{ .Site.Data.contact.email }}
       </a>
     </div>
   </div>
   <div class="call-box-bottom">
-    <a href="{{ .Site.BaseURL }}contact" class="button">Contact</a>
+    <a href="{{ .Site.BaseURL }}contact" class="button">Contacto</a>
   </div>
 </div>

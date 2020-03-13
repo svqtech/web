@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "SVQ Tech"
 themesDir = "./themes"
 theme = "hugo-serif-theme"
 
@@ -47,6 +47,6 @@ theme = "hugo-serif-theme"
     weight = 1
 
 [[menu.footer]]
-	name = "Contact"
-	url = "/contact/"
+	name = "Contacto"
+	url = "/contacto/"
     weight = 2
