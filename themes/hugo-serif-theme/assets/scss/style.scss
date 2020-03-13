@@ -46,7 +46,7 @@ body {
 }
 
 // Display breakpoints for DEV
-body:after {
+/*body:after {
   color: #000000;
   font-size: 12px;
   padding: 5px;
@@ -64,4 +64,4 @@ body:after {
       content: '#{$name} - min-width: #{$value}';
     }
   }
-}
+}*/
