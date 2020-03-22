@@ -11,7 +11,7 @@ intro_image: images/tree.png
     <input type="hidden" name="form-name" value="contact" />
     <!-- Text input-->
     <div>
-        <label for="Name"></label>
+        <label for="Nombre"></label>
         <div>
             <input id="contact-form-name" name="Name" type="text" placeholder="Name" required="" autocomplete="off">
         </div>
@@ -25,7 +25,7 @@ intro_image: images/tree.png
     </div>
     <!-- Text input-->
     <div>
-        <label for="Subject"></label>
+        <label for="Asunto"></label>
         <div>
             <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" required="" autocomplete="off">
         </div>
@@ -33,10 +33,10 @@ intro_image: images/tree.png
     <!-- Textarea -->
     <div>
         <label for=""></label>
-        <textarea id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+        <textarea id="contact-form-message" name="Message" placeholder="¿En qué podemos ayudarte?" rows="8"></textarea>
     </div>
     <!-- Button -->
     <div>
-        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+        <button type="submit" value="Submit" id="Form-submit">Enviar</button>
     </div>
 </form>
