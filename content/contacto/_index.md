@@ -3,7 +3,9 @@ title: 'Contacto'
 intro_image: images/tree.png
 ---
 
-Aquí va el formulario y los datos de contacto.
+# ¿Quieres unirte a la metacomunidad?
+
+## Contacta con nosotros para dejarnos tus sugerencias o peticiones
 
 <form name="contact" action="/thank-you/" method="POST" data-netlify="true">
     <input type="hidden" name="form-name" value="contact" />
@@ -11,7 +13,7 @@ Aquí va el formulario y los datos de contacto.
     <div>
         <label for="Name"></label>
         <div>
-            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+            <input id="contact-form-name" name="Name" type="text" placeholder="Name" required="" autocomplete="off">
         </div>
     </div>
     <!-- Text input-->
