@@ -20,7 +20,7 @@ intro_image: images/tree.png
     <div>
         <label for="Email"></label>
         <div>
-            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" required="" autocomplete="off">
+            <input id="contact-form-email" name="Email" type="email" placeholder="Email de contacto" required="" autocomplete="off">
         </div>
     </div>
     <!-- Text input-->
