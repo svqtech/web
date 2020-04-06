@@ -4,6 +4,8 @@ title: 'The Things Network Sevilla'
 
 https://www.thethingsnetwork.org/community/sevilla/
 
+Red LoRaWAN libre en Sevilla.
+
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 -----------------------------------------------------
 
