@@ -17,7 +17,6 @@ Grupo de mujeres y personas de género no binario, que surge con la intención d
 [2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
------------------------------------------------------
 
 Ping a programadorâ êh un grupo de muherê y perçonâ de hénero no binario, que çurhe con la intençión de compartîh er gûtto por la programaçión, intercambiâh conoçimientô y êpperiençiâ en tônno a lâ tênnolohíâ, abrîh er código, er tênnolóhico y también el ideolóhico.
 
@@ -71,7 +70,6 @@ Cá una de noçotrâ colabora aportando lo que puede y quiere.
 * ¿Tienê relaçión con arguna otra comunidá? Çiempre êttamô abiertâ a colaborâh con otrô grupô.
 
 ## 2- Câtteyano / Castellano / Castilian (Spanish from Spain)
---------------------------------------------------------
 
 Ping a programadoras es un grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
