@@ -4,8 +4,9 @@ title: 'Hacking Sevilla'
 
 https://www.meetup.com/es-ES/hacking-sevillaQK14
 
-Ama, Aprende, Commparte + Robots
+Ama, Aprende, Cômmparte + Robots
 
+Ama, Aprende, Commparte + Robots
 
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
