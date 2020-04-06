@@ -2,6 +2,15 @@
 title: 'Ping a Programadoras'
 ---
 
+Ficha de presentación de la comunidad Ping a Programadoras (PaP).  
+
+**Nombre**: Ping a Programadoras (PaP)  
+**Fecha de inicio (aprox.):** 16 de noviembre de 2016. [Primer encuentro en meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/events/235355872/)
+**Ubicación:** Aleatoria. Cada cita en un lugar distinto.  
+**Media de asistencia:** 10 - 15 personas.  
+**Periodicidad ideal:** Mensual.  
+**Keywords:** Tecnología, Programación, Empoderamiento, Feminismo.  
+
 [1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)  
 [2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
 [3- Inglêh / Inglés / English](#-3--inglh--ingls--english)  
