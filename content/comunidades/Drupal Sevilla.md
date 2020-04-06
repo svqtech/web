@@ -14,9 +14,9 @@ Ficha de presentación de la comunidad local Drupal Sevilla, grupo de personas i
 
 Dêccrîççión / Descripción / Description  
 --------------------------------------------
-[1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)
-[2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)
-[3- Inglêh / Inglés / English](#-3--inglh--ingls--english)
+[1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)  
+[2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
+[3- Inglêh / Inglés / English](#-3--inglh--ingls--english)  
 
 
 
