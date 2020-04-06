@@ -6,6 +6,8 @@ https://www.thethingsnetwork.org/community/sevilla/
 
 Red LoRaWAN libre en Sevilla.
 
+¿Por qué no nos ayudas a hacer el sueño realidad?
+
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 -----------------------------------------------------
 
