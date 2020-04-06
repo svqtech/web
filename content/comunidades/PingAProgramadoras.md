@@ -4,7 +4,7 @@ title: 'Ping a Programadoras'
 
 Ping a programadoras es un grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
-**A quién nos dirigimos**
+###A quién nos dirigimos
 
 Nos dirigimos a todas mujeres y personas de género no binario con interés en aprender a programar o en profundizar en los conocimientos de programación que ya posea.
 
