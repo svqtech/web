@@ -4,11 +4,11 @@ title: 'Ping a Programadoras'
 
 Ping a programadoras es un grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
-### A quién nos dirigimos
+## A quién nos dirigimos
 
 Nos dirigimos a todas mujeres y personas de género no binario con interés en aprender a programar o en profundizar en los conocimientos de programación que ya posea.
 
-**Nuestro objetivo**
+## Nuestro objetivo
 
 Nuestra intención es hacer y pensar juntas con los ordenadores, desde una perspectiva crítica y de empoderamiento.
 
@@ -23,13 +23,13 @@ Entre otras cosas, entre nuestros objetivos está:
 * Sensibilizar y divulgar la situación de la mujer en el ámbito tecnológico.
 * Crear y defender espacios seguros que nos permitan crecer.
 
-**Lo que hacemos**
+## Lo que hacemos
 
 Nuestra comunidad nació el 16 de noviembre de 2016 en un encuentro en Sevilla donde se hacía un llamamiento (ping) a todas aquellas mujeres en Sevilla interesadas por la tecnología con el primer objetivo de analizar las causas y qué podíamos aportar ala Comunidad para romper con la brecha de género en el sector de la programación.
 
 Desde entonces hemos ido organizando eventos de diversa naturaleza: proyección de documentales relacionados, talleres de introducción a tecnologías, talleres más avanzados y nuestros ya conocidos femiciclos.
 
-**Nuestras actividades**
+## Nuestras actividades
 
 ¿Quieres saber qué hacemos? ¿Cuales son las actividades que organizamos? ¿Encontrar un taller? ¿Venir a la próxima reunión?
 
@@ -37,11 +37,11 @@ Tenemos presencia en varias redes sociales, pero en https://twitter.com/pingmuje
 
 Si tienes dificultades de asistir a nuestros encuentros, charlas y talleres por tus responsabilidades como madre, cuidadora, problemas de accesibilidad, o similar, ofrecemos facilidades (sitio para que los niños jueguen, tupperwares, cambiar el sitio de la reunión, darte la posibilidad de participar online, o lo que se nos ocurra...). No dudes en avisarnos.
 
-**¿Cómo contactar con nosotras?**
+## ¿Cómo contactar con nosotras?
 
 Si te interesa y quieres seguir informándote o contactar directamente con nosotras, puedes acceder a nuestra web https://pingprogramadoras.org/ aquí encontrarás toda nuestra información.
 
-**¿Cómo colaborar con nosotras?**
+## ¿Cómo colaborar con nosotras?
 
 Nos alegra que hayas decidido colaborar, cuantas más nos unamos, más fuertes seremos y más podremos aprender unas de otras. Nos gustaría conocer cuáles son tus intereses (lenguajes o técnicas de programación, feminismo…) o qué te gustaría compartir con nosotras.
 
