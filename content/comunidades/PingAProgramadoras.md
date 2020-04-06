@@ -3,6 +3,7 @@ title: 'Ping a Programadoras'
 ---
 
 https://www.pingprogramadoras.org
+
 Grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
 **Nombre**: Ping a Programadoras (PaP)  
@@ -14,9 +15,6 @@ Grupo de mujeres y personas de género no binario, que surge con la intención d
 
 [1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)  
 [2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
-[3- Inglêh / Inglés / English](#-3--inglh--ingls--english)  
-
-
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 -----------------------------------------------------
