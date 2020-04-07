@@ -11,24 +11,24 @@ Grupo de agilidad de Sevilla y Andalucía.
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 
-Dêdde açe mâh de una década, lô andaluçê y andaluçâ nô çentimô orguyoçô de contâh con un êççêççionâh tehío prodûttibo e înnobadôh que nô a permitío deçarroyâh proyêttô punterô en tôh lô ámbitô, dêttacando, por ehemplo, nuêttrô çîttemâ de çerbiçio a la çiudadanía, en âmminîttraçión pública, çalûh, êcc. que an terminao combirtiéndoçe en un êttándâ de Âmminîttraçionê Públicâ.
+Dêdde açe mâh d'una década, lô andaluçê y andaluçâ nô çentimô orguyoçô de contâh con un êççêççionâh tehío prodûttibo e înnobadôh que nô a permitío deçarroyâh proyêttô punterô en tôh lô ámbitô, dêttacando, por ehemplo, nuêttrô çîttemâ de çerbiçio a la çiudadanía, en âmminîttraçión pública, çalûh, etc. que an terminao combirtiéndoçe en un êttándâ de Âmminîttraçionê Públicâ.
 
-Çin embargo, muxô profeçionalê de êtte ámbito y que çe êffuerçan por mantenêh çû organiçaçionê a la cabeça de la înnobaçión de proyêttô, çienten que êttán çolô en êtta tarea, cuando la realidá êh que êççîtte un colêttibo numeroço y talentoço en Andaluçía a la êppera de que çe tiendan lô puentê que lê permita compartîh informaçión y êpperiençia.
+Çin embargo, muxô profeçionalê de êtte ámbito y que ç'êffuerçan por mantenêh çû organiçaçionê a la cabeça de la înnobaçión de proyêttô, çienten que êttán çolô en êtta tarea, cuando la realidá êh que êççîtte un colêttibo numeroço y talentoço en Andaluçía a la êppera de que çe tiendan lô puentê que lê permita compartîh informaçión y êpperiençia.
 
-Un grupo de êttô profeçionalê an unío çu fuerça, talento y êffuerço pa creâh **Ahile Çûh** y que çea er puente que fomente la comunicaçión y el intercambio.
+Un grupo de êttô profeçionalê an unío çu fuerça, talento y êffuerço pa creâh **Agile Sur** y que çea er puente que fomente la comunicaçión y el intercambio.
 
-En nuêttra tierra çe trabaha con proyêttô înnobadorê y áhilê y çe arcança la êççelençia, pero muxâ beçê dixô éççitô çolo çe conoçen a nibêh locâh. Çe trabahaba de una forma mâh indibiduâh, por empreçâ, puêtto que, ar no êççîttîh lô canalê de comunicaçión, no podíamô unîh nuêttro conoçimiento, planteâh nuêttrâ inquietudê y en definitiba yegâh mâh lehô. Con er meetûh **Ahile Çûh** creamô un grupo de profeçionalê que unan çû fuerçâ pa que la Ahilidá que çe açe en Andaluçía çe çume de iguâh a la înnobaçión en la hêttión y deçarroyô de proyêttô. 
+En nuêttra tierra çe trabaha con proyêttô înnobadorê y áhilê y ç'arcança la êççelençia, pero muxâ beçê dixô éççitô çolo çe conoçen a nibêh locâh. Çe trabahaba d'una forma mâh indibiduâh, por empreçâ, puêtto que, ar no êççîttîh lô canalê de comunicaçión, no podíamô unîh nuêttro conoçimiento, planteâh nuêttrâ inquietudê y en definitiba yegâh mâh lehô. Con er meetup **Agile Sur** creamô un grupo de profeçionalê que unan çû fuerçâ pa que l'Ahilidá que çe açe en Andaluçía çe çume de iguâh a la înnobaçión en la hêttión y deçarroyô de proyêttô.
  
 ### Nuêttrô prinçipalê retô çon:
-* Çentrâh er foco en er talento de êtta tierra, en compartîl-lo, trâpparentâl-lo y açêl-lo biçible.
+* Çentrâ'r foco en er talento d'êtta tierra, en compartîl-lo, trâpparentâl-lo y açêl-lo biçible.
 * Biçibiliçâh er trabaho de nuêttrô êççelentê profeçionalê, ahilîttâ e înnobadorê, en er çûh de Êppaña.
-* Creâh oportunidadê de creçimiento perçonâh y profeçionâh,
+* Creâh oportunidadê de creçimiento perçonâh y profeçionâh.
 * Çerbîh como dîpparadôh de çinerhiâ.
 * Trabahâh nuêttrô balorê pa çêh grupo incluçibo, diberço y murtifunçionâh, en er que tôh y toâ tengamô nuêttro êppaçio.
 * Lançâh iniçiatibâ pa particularê y empreçâ pa que pueda benefiçiarçe de la ahilidá y er talento que tiene en çu mîmma rehión.
 * Aprendêh, compartîh y çobre tó dîffrutâh de la ahilidá.
 
-¿Quierê ponerte en contâtto con noçotrô? [Êccríbenô.](ahileçûh@gmaîh.com)
+¿Quierê ponerte en contâtto con noçotrô? [Êccríbenô.](agilesur@gmail.com)
 
 ## 2- Câtteyano / Castellano / Castilian (Spanish from Spain)
 

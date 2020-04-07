@@ -18,7 +18,7 @@ Grupo de mujeres y personas de género no binario, que surge con la intención d
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 
-Ping a programadorâ êh un grupo de muherê y perçonâ de hénero no binario, que çurhe con la intençión de compartîh er gûtto por la programaçión, intercambiâh conoçimientô y êpperiençiâ en tônno a lâ tênnolohíâ, abrîh er código, er tênnolóhico y también el ideolóhico.
+Ping a programadoras êh un grupo de muherê y perçonâ de hénero no binario, que çurhe con la intençión de compartîh er gûtto por la programaçión, intercambiâh conoçimientô y êpperiençiâ en tônno a lâ tênnolohíâ, abrîh er código, er tênnolóhico y también el ideolóhico.
 
 ### A quién nô dirihimô
 
@@ -26,36 +26,36 @@ Nô dirihimô a toâ muherê y perçonâ de hénero no binario con interêh en a
 
 ### Nuêttro ôhhetibo
 
-Nuêttra intençión êh açêh y pençâh huntâ con lô ordenadorê, dêdde una perppêttiba crítica y de empoderamiento.
+Nuêttra intençión êh açêh y pençâh huntâ con lô ordenadorê, dêdde una perppêttiba crítica y d'empoderamiento.
 
-Çomô una comunidá de muherê y perçonâ de hénero no binario que çe ayuda mutuamente, que çe empodera y bûcca côttruîh un mundo mâh hûtto.
+Çomô una comunidá de muherê y perçonâ de hénero no binario que ç'ayuda mutuamente, que ç'empodera y bûcca côttruîh un mundo mâh hûtto.
 
 Entre otrâ coçâ, entre nuêttrô ôhhetibô êttá:
 
 * Empoderâh a lâ muherê pa çu inçerçión en er mercao laborâh y âççedêh a empleô de mayôh calidá.
-* Integrânnô en la comunidá tênnolóhica, partiçipando con otrâ comunidadê de la familia #sbqtêh.
-* Côttruîh una ré de apoyo donde lâ muherê y perçonâ no binariâ çe çientan çegurâ.
+* Integrânnô en la comunidá tênnolóhica, partiçipando con otrâ comunidadê de la familia #svqtech.
+* Côttruîh una ré d'apoyo donde lâ muherê y perçonâ no binariâ çe çientan çegurâ.
 * Defendêh lô derexô de la muhêh en la tênnolohía y acabâh con lô çêggô y dîccriminaçionê.
 * Çençibiliçâh y diburgâh la çituaçión de la muhêh en el ámbito tênnolóhico.
 * Creâh y defendêh êppaçiô çegurô que nô permitan creçêh.
 
 ### Lo que açemô
 
-Nuêttra comunidá naçió el 16 de nobiembre de 2016 en un encuentro en Çebiya donde çe açía un yamamiento (ping) a toâ aqueyâ muherê en Çebiya intereçâh por la tênnolohía con er primêh ôhhetibo de analiçâh lâ cauçâ y qué podíamô aportâh ala Comunidá pa rompêh con la brexa de hénero en er çêttôh de la programaçión.
+Nuêttra comunidá naçió er 16 de nobiembre de 2016 en un encuentro en Çebiya donde ç'açía un yamamiento (ping) a toâ aqueyâ muherê en Çebiya intereçâh por la tênnolohía con er primêh ôhhetibo de analiçâh lâ cauçâ y qué podíamô aportâh a la Comunidá pa rompêh con la brexa de hénero en er çêttôh de la programaçión.
 
 Dêdde entonçê emô ido organiçando ebentô de diberça naturaleça: proyêççión de documentalê relaçionáô, tayerê de introdûççión a tênnolohíâ, tayerê mâh abançáô y nuêttrô ya conoçíô femiçiclô.
 
 ### Nuêttrâ âttibidadê
 
-¿Quierê çabêh qué açemô? ¿Cualê çon lâ âttibidadê que organiçamô? ¿Encontrâh un tayêh? ¿Benîh a la próççima reunión?
+¿Quierê çabêh q'açemô? ¿Cualê çon lâ âttibidadê que organiçamô? ¿Encontrâh un tayêh? ¿Benîh a la próççima reunión?
 
 Tenemô preçençia en bariâ redê çoçialê, pero en [Twitter](https://twitter.com/pingmujeres) y en [Meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/) êh donde publicamô tôh nuêttrô encuentrô. ¡Únete a nuêttra comunidá!
 
-Çi tienê dificurtadê de açîttîh a nuêttrô encuentrô, xâl-lâ y tayerê por tû rêpponçabilidadê como madre, cuidadora, problemâ de âççeçibilidá, o çimilâh, ofreçemô façilidadê (çitio pa que lô niñô huegen, tûpperwarê, cambiâh er çitio de la reunión, darte la poçibilidá de partiçipâh online, o lo que çe nô ocurra...). No dudê en abiçânnô.
+Çi tienê dificurtadê de açîttîh a nuêttrô encuentrô, xâl-lâ y tayerê por tû rêpponçabilidadê como madre, cuidadora, problemâ de âççeçibilidá, o çimilâh, ofreçemô façilidadê (çitio pa que lô niñô huegen, tupperware, cambiâh er çitio de la reunión, darte la poçibilidá de partiçipâh online, o lo que çe nô ocurra...). No dudê en abiçânnô.
 
 ### ¿Cómo contâttâh con noçotrâ?
 
-Çi te intereça y quierê çegîh informándote o contâttâh dirêttamente con noçotrâ, puedê âççedêh a nuêttra wêh [https://pingprogramadoras.org/](https://pingprogramadoras.org/) aquí encontrarâh toa nuêttra informaçión.
+Çi te intereça y quierê çegîh informándote o contâttâh dirêttamente con noçotrâ, puedê âççedêh a nuêttra web [https://pingprogramadoras.org/](https://pingprogramadoras.org/) aquí encontrarâh toa nuêttra informaçión.
 
 ### ¿Cómo colaborâh con noçotrâ?
 

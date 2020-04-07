@@ -22,15 +22,15 @@ Dêccrîççión / Descripción / Description
 
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 -----------------------------------------------------
-Ola, biembenío y biembenía. Êtta êh la fixa de preçentaçión der grupo locâh de Drupâh Çebiya, una reunión periódica o aleatoria (çegún la época) de perçonâ intereçâh en tó lo que rodea al aprendiçahe y êpperiençiâ con diberçâ tênnolohíâ relaçionâh con [Drupâh](drupal.org) en particulâh: pp, Twîh, Symfony, Compoçêh... nô reunimô en çitiô cambiantê (cá quedá en un lugâh diferente), por aqueyo de deçacoplâh comunidá y empreçâ, pa que nadie çienta un êppeçiâh bínculo por una ubicaçión determiná, açí que bamô librê, errantê y deçacopláô.    
+Ola, biembenío y biembenía. Êtta êh la fixa de preçentaçión der grupo locâh de Drupal Sevilla, una reunión periódica o aleatoria (çegún la época) de perçonâ intereçâh en tó lo que rodea al aprendiçahe y êpperiençiâ con diberçâ tênnolohíâ relaçionâh con [Drupal](drupal.org) en particulâh: php, Twig, Symfony, Composer... nô reunimô en çitiô cambiantê (cá quedá en un lugâh diferente), por aqueyo de deçacoplâh comunidá y empreçâ, pa que nadie çienta un êppeçiâh bínculo por una ubicaçión determiná, açí que bamô librê, errantê y deçacopláô.
 
 Te recomendamô que pa que puedâ açîttîh, êttêh atento o atenta nuêttrô canalê online pa açêh çegimiento de nuêttrâ quedâh.   
 
-* [Perfîh der grupo locâh de Drupâh Çebiya en Twîttêh](https://twitter.com/drupalsevilla)
-* [Perfîh der grupo locâh de Drupâh Çebiya en Meetûh](https://www.meetup.com/es-ES/sevilladrupal/)
-* [Perfîh der grupo locâh de Drupâh Çebiya en Drupâh Groups](https://groups.drupal.org/sevilla)
+* [Perfîh der grupo locâh de Drupal Sevilla en Twitter](https://twitter.com/drupalsevilla)
+* [Perfîh der grupo locâh de Drupal Sevilla en Meetup](https://www.meetup.com/es-ES/sevilladrupal/)
+* [Perfîh der grupo locâh de Drupal Sevilla en Drupal Groups](https://groups.drupal.org/sevilla)
 
-Por çierto, en Drupâh Çebiya también creemô en un liderâggo dîttribuío, açí que no tenemô una perçona "rêpponçable", "organiçadora" o argo açí. Cuarquiêh perçona con iniçiatiba puede organiçâh una quedá çi lo deçea, y lô demâh ayudaremô tó lo poçible. Por çi quierê contâttâh, te anotamô argunâ perçonâ que çuelen imbolucrarçe en lâ âttibidadê de Drupâh Çebiya:   
+Por çierto, en Drupal Sevilla también creemô en un liderâggo dîttribuío, açí que no tenemô una perçona "rêpponçable", "organiçadora" o argo açí. Cuarquiêh perçona con iniçiatiba puede organiçâh una quedá çi lo deçea, y lô demâh ayudaremô tó lo poçible. Por çi quierê contâttâh, te anotamô argunâ perçonâ que çuelen imbolucrarçe en lâ âttibidadê de Drupal Sevilla:   
 
 - Fran Seva, [@Fran](https://twitter.com/Fran)
 - Leandro Luvigne, [@lluvigne](https://twitter.com/lluvigne) 
