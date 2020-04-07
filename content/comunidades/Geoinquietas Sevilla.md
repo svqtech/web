@@ -2,7 +2,7 @@
 title: 'Geoinquietas Sevilla'
 ---
 
-La comunidá heoinquieta êttá formá por grupô localê informalê de hente que comparte inquietudê, intereçê, êpperiençiâ o cuarquiêh idea en el ámbito de la heomática, er çôttware libre y la tênnolohía heoêppaçiâh (tó aqueyo relaçionao con el ámbito HEO y ÇÎH). Çon reunionê dîttendidâ que çuelen côttâh de una o bariâ pequeñâ preçentaçionê o tayerê çobre un tema relaçionao con la tênnolohía y la informaçión heográfica. Lô partiçipantê y açîttentê toman un papêh partiçipatibo y âttibo henerando un ambiente donde fluyen ideâ y êpperiençiâ en tônno a la tênnolohía y la înnobaçión. Cuarquiêh perçona êttá imbitá a açîttîh a lâ âttibidadê de Heoinquietô, con el único requiçito de querêh compartîh conoçimientô y aprendêh de lô demâh. 
+La comunidá heoinquieta êttá formá por grupô localê informalê de hente que comparte inquietudê, intereçê, êpperiençiâ o cuarquiêh idea en el ámbito de la heomática, er software libre y la tênnolohía heoêppaçiâh (tó aqueyo relaçionao con el ámbito GEO y SIG). Çon reunionê dîttendidâ que çuelen côttâh de una o bariâ pequeñâ preçentaçionê o tayerê çobre un tema relaçionao con la tênnolohía y la informaçión heográfica. Lô partiçipantê y açîttentê toman un papêh partiçipatibo y âttibo henerando un ambiente donde fluyen ideâ y êpperiençiâ en tônno a la tênnolohía y la înnobaçión. Cuarquiêh perçona êttá imbitá a açîttîh a lâ âttibidadê de Geoinquietos, con el único requiçito de querêh compartîh conoçimientô y aprendêh de lô demâh. 
 
 Tienê mâh informaçión en https://www.meetup.com/es-ES/Geoinquietos-Sevilla/
 
