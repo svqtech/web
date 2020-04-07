@@ -1,6 +1,6 @@
 ---
 title: 'Evento'
-intro_image:
+intro_image: images/rara.png
 ---
 
 ¡El próximo miércoles 15 de abril a las 18h no te pierdas la presentación oficial de la comunidad SVQTech!
