@@ -2,5 +2,6 @@
 title: 'WordPress Sevilla'
 ---
 
-Bienvenido al Chiquito Ipsum, el generador de texto de relleno para tus diseños de antes de los dolores.
-Dale a "Fistrum" para que te salga ese pedaso de texto Chiquito en estado puro. Si te crees muy moderno dale a "Latin" que te lo pongo con cuarto y mitad de romanooo...
+El espacio de encuentro de los entusiastas WordPress en Sevilla.
+
+[https://www.meetup.com/es-ES/WordPress-Sevilla/](https://www.meetup.com/es-ES/WordPress-Sevilla/)

@@ -3,4 +3,6 @@ title: 'Sobre nosotros'
 intro_image: images/tree.png
 ---
 
-Lorem fistrum por la gloria de mi madre ahorarr te va a hasé pupitaa al ataquerl. A gramenawer diodeno llevame al sircoo a gramenawer benemeritaar apetecan a gramenawer te voy a borrar el cerito ese hombree mamaar. Está la cosa muy malar ahorarr ahorarr a wan jarl amatomaa se calle ustée benemeritaar. Qué dise usteer condemor llevame al sircoo diodeno sexuarl apetecan caballo blanco caballo negroorl. Diodeno no te digo trigo por no llamarte Rodrigor a wan tiene musho peligro ahorarr jarl a peich fistro diodeno ese hombree amatomaa.
+Somos personas que trabajamos en el sector de la tecnología y en Sevilla. Individualmente, ayudamos a organizar comunidades tecnológicas con el ánimo de construir una sociedad mejor entre todos y aprender y mejorar como profesionales y como personas.
+
+Nos reunimos regularmente para hablar y aprender todos juntos de las tecnologías que más nos gustan y ahora hemos visto que también podemos mezclarnos entre todos, abrazar la diversidad y aprender y mejorar aún más juntándonos para celebrar lo que nos une.

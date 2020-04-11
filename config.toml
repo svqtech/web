@@ -39,6 +39,10 @@ theme = "hugo-serif-theme"
     url = "/contacto/"
     weight = 4
 
+[[menu.main]]
+    name = "Evento"
+    url = "/evento/"
+    weight = 5
 
 # Footer Menu
 [[menu.footer]]
