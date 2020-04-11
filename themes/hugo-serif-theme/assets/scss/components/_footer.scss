@@ -15,10 +15,13 @@
   }
   .footer-title {
     color: #ffffff;
-    font-size: 1.3rem;
-    font-family: $font-family-heading;
-    font-weight: normal;
     margin-bottom: 10px;
+
+    img {
+      display: block;
+      height: 20px;
+    }
+
     @include media-breakpoint-up(sm) {
       margin: 0;
     }
