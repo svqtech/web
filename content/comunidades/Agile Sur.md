@@ -2,13 +2,12 @@
 title: 'Agile Sur'
 ---
 
-https://www.meetup.com/es-ES/Agile-Sur
+Somos el grupo de agilidad de Sevilla y Andalucía. [Síguenos en Meetup](https://www.meetup.com/es-ES/Agile-Sur) para encontrar las actividades que organizamos y unirte a nuestro proyecto.
 
-Grupo de agilidad de Sevilla y Andalucía.
+  
+[Ver versión en Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
 
-[1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)  
-[2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
-
+<a name=”#-1--andalh-epa--andaluz-epa--andalusian-proposal″></a>
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 
 Dêdde açe mâh d'una década, lô andaluçê y andaluçâ nô çentimô orguyoçô de contâh con un êççêççionâh tehío prodûttibo e înnobadôh que nô a permitío deçarroyâh proyêttô punterô en tôh lô ámbitô, dêttacando, por ehemplo, nuêttrô çîttemâ de çerbiçio a la çiudadanía, en âmminîttraçión pública, çalûh, etc. que an terminao combirtiéndoçe en un êttándâ de Âmminîttraçionê Públicâ.
@@ -28,8 +27,10 @@ En nuêttra tierra çe trabaha con proyêttô înnobadorê y áhilê y ç'arcan�
 * Lançâh iniçiatibâ pa particularê y empreçâ pa que pueda benefiçiarçe de la ahilidá y er talento que tiene en çu mîmma rehión.
 * Aprendêh, compartîh y çobre tó dîffrutâh de la ahilidá.
 
-¿Quierê ponerte en contâtto con noçotrô? [Êccríbenô.](agilesur@gmail.com)
+¿Quierê ponerte en contâtto con noçotrô? [Êccríbenô.](mailto:agilesur@gmail.com)
 
+
+<a name="#-2--ctteyano--castellano--castilian-spanish-from-spain"></a>
 ## 2- Câtteyano / Castellano / Castilian (Spanish from Spain)
 
 Desde hace más de una década, los andaluces y andaluzas nos sentimos orgullosos de contar con un excepcional tejido productivo e innovador que nos ha permitido desarrollar proyectos punteros en todos los ámbitos, destacando, por ejemplo, nuestros sistemas de servicio a la ciudadanía, en administración pública, salud, etc. que han terminado convirtiéndose en un estándar de Administraciones Públicas.
@@ -49,5 +50,5 @@ En nuestra tierra se trabaja con proyectos innovadores y ágiles y se alcanza la
 * Lanzar iniciativas para particulares y empresas para que pueda beneficiarse de la agilidad y el talento que tiene en su misma región.
 * Aprender, compartir y sobre todo disfrutar de la agilidad.
 
-¿Quieres ponerte en contacto con nosotros? [Escríbenos.](agilesur@gmail.com)
+¿Quieres ponerte en contacto con nosotros? [Escríbenos.](mailto:agilesur@gmail.com)
 
