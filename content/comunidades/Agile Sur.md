@@ -30,7 +30,7 @@ En nuêttra tierra çe trabaha con proyêttô înnobadorê y áhilê y ç'arcan�
 ¿Quierê ponerte en contâtto con noçotrô? [Êccríbenô.](mailto:agilesur@gmail.com)
 
 
-<a name="#-2--ctteyano--castellano--castilian-spanish-from-spain"></a>
+<a name="-2--ctteyano--castellano--castilian-spanish-from-spain"></a>
 ## 2- Câtteyano / Castellano / Castilian (Spanish from Spain)
 
 Desde hace más de una década, los andaluces y andaluzas nos sentimos orgullosos de contar con un excepcional tejido productivo e innovador que nos ha permitido desarrollar proyectos punteros en todos los ámbitos, destacando, por ejemplo, nuestros sistemas de servicio a la ciudadanía, en administración pública, salud, etc. que han terminado convirtiéndose en un estándar de Administraciones Públicas.
