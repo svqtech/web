@@ -3,13 +3,13 @@ title: 'Evento'
 intro_image: images/rara.png
 ---
 
-¡El próximo miércoles 15 de abril a las 18h no te pierdas la presentación oficial de la comunidad SVQTech!
+¡El próximo miércoles 15 de abril a las 18h no te pierdas la presentación oficial de la comunidad SVQtech!
 
 Nacida de la unión de 16 comunidades tecnológicas de Sevilla, sus principales objetivos son facilitar el acceso a la tecnología a todos los sectores de la sociedad y la creación de una red potente de profesionales y emprendedores del sector que pongan a Sevilla como referente de Andalucía en la innovación y el talento tecnológico.
 
-Únete a este evento completamente gratuito para saber más sobre el proyecto SVQTech, conocer nuestro manifiesto y asistir a diferentes charlas sobre tecnología, programación, desarrollo de software y ciberseguridad. Échale un vistazo a nuestro programa y apúntate ya. ¡No te quedes sin tu sitio!
+Únete a este evento completamente gratuito para saber más sobre el proyecto SVQtech, conocer nuestro manifiesto y asistir a diferentes charlas sobre tecnología, programación, desarrollo de software y ciberseguridad. Échale un vistazo a nuestro programa y apúntate ya. ¡No te quedes sin tu sitio!
 
-Programa SVQTech - 15 de abril de 18 a 20h
+Programa SVQtech - 15 de abril de 18 a 20h
 
 - Jamstack: JavaScript, apis y prerenderizado, Mariano Pérez de WordPress Sevilla
 
