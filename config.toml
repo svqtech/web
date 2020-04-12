@@ -15,7 +15,7 @@ theme = "hugo-serif-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "Las comunidades tecnológicas de Sevilla."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@svqtech"
+    meta_twitter_site = "@svq_tech"
     meta_twitter_creator = "@mpc"
 
 # Main Menu
