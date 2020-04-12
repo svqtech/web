@@ -9,7 +9,7 @@ theme = "hugo-serif-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Web de las comunidades tecnológicas de Sevilla."
-    meta_og_title = "SVQTech"
+    meta_og_title = "SVQtech"
     meta_og_type = "website"
     meta_og_url = "https://hugo-serif.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
