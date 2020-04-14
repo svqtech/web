@@ -9,22 +9,26 @@ Nacida de la unión de más de 20 **comunidades tecnológicas de Sevilla**, sus 
 
 Únete a este evento completamente gratuito para saber más sobre el proyecto SVQtech, conocer nuestro manifiesto y asistir a diferentes charlas sobre tecnología, programación, desarrollo de software y ciberseguridad. Échale un vistazo a nuestro programa y apúntate ya. ¡No te quedes sin tu sitio!
 
-## Programa SVQtech - 15 de abril de 18 a 20h
+### Programa SVQtech - 15 de abril de 18 a 20h
 
-* Jamstack: JavaScript, apis y prerenderizado, Mariano Pérez de WordPress Sevilla
+* **Presentación oficial de la metacomunidad SVQtech**, Javier Viñuales de DatabeerSVQ
 
-* Datos libres, OSM y GeoChicas, Maria Arias de Reyna de GeoInquietas
+* **Lectura del manifiesto**, Nilo Vélez de WordPress Sevilla
 
-* Andalugeeks, comunidad #OpenSource para el desarrollo del Andaluz, J. Félix Ontañón de Andalugeeks
+* **Jamstack: JavaScript, apis y prerenderizado**, Mariano Pérez de WordPress Sevilla
 
-* DatabeerSVQ
+* **Datos libres, OSM y GeoChicas**, Maria Arias de Reyna de GeoInquietas
 
-* Auditoria de seguridad informática a la ciudad de Sevilla, Jorge Websec de Hacking Sevilla
+* **Andalugeeks, comunidad #OpenSource para el desarrollo del Andaluz**, J. Félix Ontañón de Andalugeeks
 
-* DAOs, Organizaciones Autónomas Descentralizadas, Ángel Contreras de Ethereum | PoS SvQ
+* **Open Data, ¿por qué?**, Luis Mesa de DatabeerSVQ
 
-* Deja que un robot lo haga por ti. Introducción a la tecnología RPA y cómo crear tu propio robot, María López Moreno de Ping a Programadoras
+* **Auditoria de seguridad informática a la ciudad de Sevilla**, Jorge Websec de Hacking Sevilla
 
-* ¿Por qué Python? ¿Por qué ahora?, Alberto Fernández Valiente de Python Sevilla
+* **DAOs, Organizaciones Autónomas Descentralizadas**, Ángel Contreras de Ethereum | PoS SvQ
 
-* Makers en tiempos de Coronavirus, Sevilla Maker Society
+* **Deja que un robot lo haga por ti.** Introducción a la tecnología RPA y cómo crear tu propio robot, María López Moreno de Ping a Programadoras
+
+* **¿Por qué Python? ¿Por qué ahora?**, Alberto Fernández Valiente de Python Sevilla
+
+* **Makers en tiempos de Coronavirus**, Luis B. Salgado de Sevilla Maker Society
