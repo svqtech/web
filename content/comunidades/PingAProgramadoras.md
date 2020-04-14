@@ -1,6 +1,6 @@
 ---
 title: 'Ping a Programadoras'
-intro_image: images/logo_ping-a-programadoras.png
+intro_image: images/logopap.png
 ---
 
 https://www.pingprogramadoras.org
