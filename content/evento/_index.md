@@ -11,6 +11,7 @@ Nacida de la unión de más de 20 **comunidades tecnológicas de Sevilla**, sus 
 
 ### Programa SVQtech - 15 de abril de 18 a 20h
 
+
 * **Presentación oficial de la metacomunidad SVQtech**, Javier Viñuales de DatabeerSVQ
 
 * **Lectura del manifiesto**, Nilo Vélez de WordPress Sevilla
