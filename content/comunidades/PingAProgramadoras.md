@@ -9,6 +9,7 @@ Grupo de mujeres y personas de género no binario, que surge con la intención d
 
 **Nombre**: Ping a Programadoras (PaP)  
 **Fecha de inicio (aprox.):** 16 de noviembre de 2016. [Primer encuentro en meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/events/235355872/)
+
 **Ubicación:** Aleatoria. Cada cita en un lugar distinto.
 **Media de asistencia:** 10 - 15 personas.  
 **Periodicidad ideal:** Mensual.  
