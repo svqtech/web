@@ -107,7 +107,7 @@ Desde entonces hemos ido organizando eventos de diversa naturaleza: proyección 
 
 Tenemos presencia en varias redes sociales, pero en https://twitter.com/pingmujeres y en https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/ es donde publicamos todos nuestros encuentros. ¡Únete a nuestra comunidad!
 
-Si tienes dificultades de asistir a nuestros encuentros, charlas y talleres por tus responsabilidades como madre, cuidadora, problemas de accesibilidad, o similar, ofrecemos facilidades (sitio para que los niños jueguen, tupperwares, cambiar el sitio de la reunión, darte la posibilidad de participar online, o lo que se nos ocurra...). No dudes en avisarnos.
+Si tienes dificultades para asistir a nuestros encuentros, charlas y talleres por tus responsabilidades como madre, cuidadora, problemas de accesibilidad, o similar, ofrecemos facilidades (sitio para que los niños jueguen, tupperwares, cambiar el sitio de la reunión, darte la posibilidad de participar online, o lo que se nos ocurra...). No dudes en avisarnos.
 
 ### ¿Cómo contactar con nosotras?
 
