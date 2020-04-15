@@ -11,27 +11,16 @@ Nacida de la unión de más de 20 **comunidades tecnológicas de Sevilla**, sus 
 
 Retransmisión en directo en [Youtube](https://www.youtube.com/watch?v=tTJS1ObGAz0).
 
-### Programa SVQtech - 15 de abril de 18 a 20h
+## Programa SVQtech - 15 de abril de 18 a 20h
 
-
-* **Presentación oficial de la metacomunidad SVQtech**, Javier Viñuales de DatabeerSVQ
-
-* **Lectura del manifiesto**, Nilo Vélez de WordPress Sevilla
-
-* **Jamstack: JavaScript, apis y prerenderizado**, Mariano Pérez de WordPress Sevilla
-
-* **Datos libres, OSM y GeoChicas**, Maria Arias de Reyna de GeoInquietas
-
-* **Andalugeeks, comunidad #OpenSource para el desarrollo del Andaluz**, J. Félix Ontañón de Andalugeeks
-
-* **Open Data, ¿por qué?**, Luis Mesa de DatabeerSVQ
-
-* **Auditoria de seguridad informática a la ciudad de Sevilla**, Jorge Websec de Hacking Sevilla
-
-* **DAOs, Organizaciones Autónomas Descentralizadas**, Ángel Contreras de Ethereum | PoS SvQ
-
-* **Deja que un robot lo haga por ti.** Introducción a la tecnología RPA y cómo crear tu propio robot, María López Moreno de Ping a Programadoras
-
-* **¿Por qué Python? ¿Por qué ahora?**, Alberto Fernández Valiente de Python Sevilla
-
-* **Makers en tiempos de Coronavirus**, Luis B. Salgado de Sevilla Maker Society
+ 1. **Presentación oficial de la metacomunidad SVQtech**, Javier Viñuales de DatabeerSVQ
+ 2. **Lectura del manifiesto**, Nilo Vélez de WordPress Sevilla
+ 3. **Jamstack: JavaScript, apis y prerenderizado**, Mariano Pérez de WordPress Sevilla
+ 4. **Datos libres, OSM y GeoChicas**, Maria Arias de Reyna de GeoInquietas
+ 5. **Andalugeeks, comunidad #OpenSource para el desarrollo del Andaluz**, J. Félix Ontañón de Andalugeeks
+ 6. **Open Data, ¿por qué?**, Luis Mesa de DatabeerSVQ
+ 7. **Auditoria de seguridad informática a la ciudad de Sevilla**, Jorge Websec de Hacking Sevilla
+ 8. **DAOs, Organizaciones Autónomas Descentralizadas**, Ángel Contreras de Ethereum | PoS SvQ
+ 9. **Deja que un robot lo haga por ti.** Introducción a la tecnología RPA y cómo crear tu propio robot, María López Moreno de Ping a Programadoras
+ 10. **¿Por qué Python? ¿Por qué ahora?**, Alberto Fernández Valiente de Python Sevilla
+ 11. **Makers en tiempos de Coronavirus**, Luis B. Salgado de Sevilla Maker Society

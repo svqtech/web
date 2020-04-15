@@ -1,6 +1,6 @@
 ---
 title: 'Sobre nosotros'
-intro_image: images/tree.png
+intro_image: images/science-and-technology-drawing-20.png
 ---
 
 Somos personas que trabajamos en el sector de la tecnología y en Sevilla. Individualmente, ayudamos a organizar comunidades tecnológicas con el ánimo de construir una sociedad mejor entre todos y aprender y mejorar como profesionales y como personas.
