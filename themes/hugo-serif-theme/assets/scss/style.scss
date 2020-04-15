@@ -67,7 +67,7 @@ ol{
 *{box-sizing:border-box;}
 
 form{
-	width:300px;
+	width:500px;
 	padding:16px;
 	border-radius:10px;
 	margin:auto;
@@ -75,14 +75,14 @@ form{
 }
 
 form label{
-	width:72px;
+	width:100%;
 	font-weight:bold;
 	display:inline-block;
 }
 
 form input[type="text"],
 form input[type="email"]{
-	width:180px;
+	width:100%;
 	padding:3px 10px;
 	border:1px solid #f6f6f6;
 	border-radius:3px;
