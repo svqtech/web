@@ -9,6 +9,8 @@ Nacida de la unión de más de 20 **comunidades tecnológicas de Sevilla**, sus 
 
 Únete a este evento completamente gratuito para saber más sobre el proyecto SVQtech, conocer nuestro manifiesto y asistir a diferentes charlas sobre tecnología, programación, desarrollo de software y ciberseguridad. Échale un vistazo a nuestro programa y apúntate ya. ¡No te quedes sin tu sitio!
 
+Retransmisión en directo en [Youtube](https://www.youtube.com/watch?v=tTJS1ObGAz0).
+
 ### Programa SVQtech - 15 de abril de 18 a 20h
 
 
