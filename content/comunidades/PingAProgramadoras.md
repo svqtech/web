@@ -2,11 +2,11 @@
 title: 'Ping a Programadoras'
 ---
 
-![Logo Ping a programadoras](/images/logopap.png)
-
 Grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
 https://www.pingprogramadoras.org  
+
+![Logo Ping a programadoras](/images/logopap.png)
 
 **Nombre**: Ping a Programadoras (PaP)  
 **Fecha de inicio (aprox.):** 16 de noviembre de 2016. [Primer encuentro en meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/events/235355872/)  
