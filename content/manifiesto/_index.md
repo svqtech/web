@@ -25,17 +25,17 @@ __Somos parte de la ciudad.__ Participamos. La idea de que quien contribuye cont
 
 Creemos en una Sevilla que, sin dejar de ser lo que es, pueda ser un referente tecnológico. No hace falta elegir entre rebujito o tecnología, podemos tenerlo todo.
 
-- Queremos que nuestra ciudad genere eventos tecnológicos especialmente orientados a profesionales del conocimiento.
+- __Queremos que nuestra ciudad genere eventos tecnológicos__ especialmente orientados a profesionales del conocimiento.
 
-- Queremos que la tecnología que se hace en nuestra tierra tenga una mayor representación en los medios de comunicación. Aquí se hacen cosas, defendámoslo.
+- __Queremos que la tecnología que se hace en nuestra tierra tenga una mayor representación en los medios de comunicación__. Aquí se hacen cosas, defendámoslo.
 
-- Queremos que las instituciones escuchen a las comunidades profesionales de la ciudad. Somos parte de la vida activa de esta ciudad.
+- __Queremos que las instituciones escuchen a las comunidades profesionales de la ciudad__. Somos parte de la vida activa de esta ciudad.
 
-- Queremos que las empresas colaboren con las comunidades tecnológicas. Comunidad de profesionales y para profesionales.
+- __Queremos que las empresas colaboren con las comunidades tecnológicas__. Comunidad de profesionales y para profesionales.
 
-- Queremos más y mejores comunidades tecnológicas en nuestra ciudad. Si quieres formar una, cuenta con nuestra ayuda y experiencia para allanarte el camino.
+- __Queremos más y mejores comunidades tecnológicas en nuestra ciudad__. Si quieres formar una, cuenta con nuestra ayuda y experiencia para allanarte el camino.
 
-- Queremos prácticas de gobierno abierto en nuestra sociedad. Transparencia, participación y colaboración como las bases de una Sevilla más moderna e innovadora.
+- __Queremos prácticas de gobierno abierto en nuestra sociedad__. Transparencia, participación y colaboración como las bases de una Sevilla más moderna e innovadora.
 
 Queremos una Sevilla más tecnológica, más moderna, más cultural y cosmopolita. Una Sevilla que sin olvidarse de sus orígenes, pueda mirar al futuro con esperanza. Llevamos años haciéndolo y no pararemos. Porque sabemos que estamos construyendo una Sevilla mejor.
 

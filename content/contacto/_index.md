@@ -1,6 +1,6 @@
 ---
 title: 'Contacto'
-intro_image: images/tree.png
+intro_image: images/fish.png
 ---
 
 # ¿Quieres unirte a la metacomunidad?

@@ -2,12 +2,14 @@
 title: 'Ping a Programadoras'
 ---
 
-https://www.pingprogramadoras.org
-
 Grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
 
+https://www.pingprogramadoras.org  
+
+![Logo Ping a programadoras](/images/logopap.png)
+
 **Nombre**: Ping a Programadoras (PaP)  
-**Fecha de inicio (aprox.):** 16 de noviembre de 2016. [Primer encuentro en meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/events/235355872/)
+**Fecha de inicio (aprox.):** 16 de noviembre de 2016. [Primer encuentro en meetup](https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/events/235355872/)  
 **Ubicación:** Aleatoria. Cada cita en un lugar distinto.  
 **Media de asistencia:** 10 - 15 personas.  
 **Periodicidad ideal:** Mensual.  
@@ -16,6 +18,7 @@ Grupo de mujeres y personas de género no binario, que surge con la intención d
 [1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)](#-1--andalh-epa--andaluz-epa--andalusian-proposal)  
 [2- Câtteyano / Castellano / Castilian (Spanish from Spain)](#-2--ctteyano--castellano--castilian-spanish-from-spain)  
 
+<a name="-1--andalh-epa--andaluz-epa--andalusian-proposal"></a>
 ## 1- Andalûh (EPA) / Andaluz (EPA) / Andalusian (Proposal)
 
 Ping a programadoras êh un grupo de muherê y perçonâ de hénero no binario, que çurhe con la intençión de compartîh er gûtto por la programaçión, intercambiâh conoçimientô y êpperiençiâ en tônno a lâ tênnolohíâ, abrîh er código, er tênnolóhico y también el ideolóhico.
@@ -69,6 +72,7 @@ Cá una de noçotrâ colabora aportando lo que puede y quiere.
 * ¿Conoçê a una muhêh que te gûttaría êccuxâh? Imbítala a que comparta çu êpperiençia con noçotrâ. Noçotrâ te ayudamô con la lohíttica de encontrâh un êppaçio, dâl-le difuçión y tó lo que puedâ neçeçitâh pa yebâl-lo a cabo.
 * ¿Tienê relaçión con arguna otra comunidá? Çiempre êttamô abiertâ a colaborâh con otrô grupô.
 
+<a name="-2--ctteyano--castellano--castilian-spanish-from-spain"></a>
 ## 2- Câtteyano / Castellano / Castilian (Spanish from Spain)
 
 Ping a programadoras es un grupo de mujeres y personas de género no binario, que surge con la intención de compartir el gusto por la programación, intercambiar conocimientos y experiencias en torno a las tecnologías, abrir el código, el tecnológico y también el ideológico.
@@ -104,7 +108,7 @@ Desde entonces hemos ido organizando eventos de diversa naturaleza: proyección 
 
 Tenemos presencia en varias redes sociales, pero en https://twitter.com/pingmujeres y en https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/ es donde publicamos todos nuestros encuentros. ¡Únete a nuestra comunidad!
 
-Si tienes dificultades de asistir a nuestros encuentros, charlas y talleres por tus responsabilidades como madre, cuidadora, problemas de accesibilidad, o similar, ofrecemos facilidades (sitio para que los niños jueguen, tupperwares, cambiar el sitio de la reunión, darte la posibilidad de participar online, o lo que se nos ocurra...). No dudes en avisarnos.
+Si tienes dificultades para asistir a nuestros encuentros, charlas y talleres por tus responsabilidades como madre, cuidadora, problemas de accesibilidad, o similar, ofrecemos facilidades (sitio para que los niños jueguen, tupperwares, cambiar el sitio de la reunión, darte la posibilidad de participar online, o lo que se nos ocurra...). No dudes en avisarnos.
 
 ### ¿Cómo contactar con nosotras?
 
