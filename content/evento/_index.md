@@ -5,7 +5,7 @@ intro_image: images/rara.png
 
 El **próximo miércoles 24 de junio a las 18h**, tendrá lugar la segunda edición de la presentación de la comunidad SVQtech. Un evento online gratuito en el que los asistentes podrán conocer al resto de comunidades que forman parte de esta iniciativa y que en el anterior encuentro no tuvieron la oportunidad de presentarse.
 
-Durante aproximadamente dos horas, asistiremos a una serie de microcharlas o *lighting talks* en las que, un total de ocho comunidades tecnológicas punteras de la ciudad de Sevilla, nos presentarán sus iniciativas y las tecnologías con las que habitualmente trabajan.
+Durante aproximadamente dos horas, asistiremos a una serie de microcharlas o *lightning talks* en las que, un total de ocho comunidades tecnológicas punteras de la ciudad de Sevilla, nos presentarán sus iniciativas y las tecnologías con las que habitualmente trabajan.
 
 El objetivo de SVQtech es convertir a Sevilla en el referente dentro de Andalucía de ciudad cosmopolita e innovadora que impulsa el talento y
 la difusión de la tecnología en la sociedad.
